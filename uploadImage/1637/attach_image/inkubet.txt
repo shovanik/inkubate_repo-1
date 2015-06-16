@@ -1,0 +1,281 @@
+                                                                          Inkubet issues
+
+1.  Should say "Join!" on every page where it
+     now says "Register"...(2-112)
+
+2.  Copyright date needs to be updated to
+      2014 on all site pages. (4-112)
+
+3.  Contest tab will change or will be removed
+     based on new design. (5-112)
+
+4.  what is inkubate?: take the tour:
+     and watch our video tabs should
+     collectively drive users to join. (6-112)
+
+5.  Remove contest link ( footer ) (8-112)
+
+6.  Change title to "Cool, Glad to Meet You!" (11-112)
+
+7.  Remove this note. (12-112)
+
+8.  Replace this "Tell us about your work" box
+     with a customized, "friendly" CAPCHA-like
+     security tool based on the following
+     multiple choice prompt: (13-112)
+
+9.  Thinking about how to re-work this section. (14-112)
+
+10.  Content of this page will be updated. (16-112)
+
+11.  New video content under discussion. (18-112)
+
+12.  Screen shot will be a popup picture of
+       Dianna's revised view of her work.   (20-112)
+
+13.  We need to be able to make edits to the
+       FAQ copy from the admin panel including
+       hot links in the right-hand margin.  (25-112)
+
+14.  Pitchit! logo should be Pi (maybe the "i"
+       should be fancy?) (27-112)
+
+15.  Change "AEPs'" to "AEP" (28-112)
+
+16.  This is Stacy commenting: I prefer "Latest
+        Pitchits!" since they may expire based on
+        the time frame that they run. "Latest" can
+        apply to the most recent chronological
+        Pitchits! regardless of whether they are
+        still in play if you will.  (29-112)
+
+17.  Make numbers align in a column. (30-112)
+
+18.  Change this title to "Pitchits! Viewed by AEPs" (31-112)
+
+19.  Eliminate this row. (32-112)
+
+20.  Shows lifetime statistic of earned Pitchits!
+        Not Clickable Also, when counter here
+        goes to zero, there should be a button
+        that reads, "Earn Pitchits!"  (33-112)
+
+21.  Stat: Not clickable
+       Also, when "remaining Pitchits! are at zero,
+       the counter should turn into a button that
+       says, "buy Pitchits!" (34-112)
+
+22.  Change "Public" to "Visibility" (35-112)
+
+23.  Need to add a Help "?" icon that turns
+       hover help on or off. Hover help ? should
+       appear on each section of all pages. (36-112)
+
+24.  Clicking on one of these should take you
+       to a preselected list of the chosen criteria.
+       Once there, user should be able to use a
+       drop-down menu to change to the other
+       criteria. (37-112)
+
+25.  J and S agree that we can drop Profile tab
+       here b/c Profile editing is accessible on top
+       right of dash. (38-112)
+
+26.  J & S agree that "Inbox" tab should
+        become "My Notifications" tab. (39-112)
+
+27.  J and S agree should move (i) invite icon to
+        another part of Dash. Also, the (i) may
+       confuse writers since it looks like an
+      "information" icon. (40-112)
+
+28.  The hover should be called "New
+        Messages." Clicking on a message in the
+        hover should bring writer to the inbox of
+        the "My Notifications." (41-112)
+
+29.  This bell icon needs a hover similar to the
+       envelope icon that says "New Alerts" and
+       lists the first and/or more alerts for writer. (42-112)
+
+30.  Here we need a hover over that says:
+      "Your Profile is your brand, and is
+       viewable by agents, editors and publishers
+       when they discover your work in a search
+       or by clicking through a Pitchit!. (43-112)
+
+31.  Change to "Active Pitchits!" (44-112)
+
+32.  This "Active PI" section will display the
+       following data from left to right:
+      Remove No. column.
+      "Date" changes to "Pitchit!" (45-112)
+
+33.  NOTE_ We are revamping and discussing
+       the EXACT data that want to display here.
+       Please connect with us. (46-112)
+
+34.  Per comment #2, data displayed would be
+       the total number of searches for each
+      work with the time of the most recent
+      search return displayed. (47-112)
+
+35.  Mouse-over to see piechart detail. (48-112)
+
+36.  Per comment #2, we will display two
+       things here:
+       1) total number of views of the profile with
+           the date and time of the most recent view
+       2) the number of unique viewers (49-112)
+
+37.  Per comment #2, we will display two
+       things here:
+       1) total number of downloads with the
+           date and time of the most recent
+           download
+       2) the number of unique downloaders (50-112)
+
+38.  Per comment #2, we will display two things here:
+         1) total number of Bookshelf Additions
+             with the date and time of the most recent
+             addition
+         2) the number of unique AEPS that have
+             added a given work to a bookshelf. (51-112)
+
+39.  Clicking this takes user to landing page
+        where all their works are displayed. (52-112)
+
+40.  Change this icon to a book. (53-112)
+
+41.  Date of copyright 2014 on all site pages. (54-112)
+
+42.  Clicking takes you to a page with several
+       different graphs that are controlled by
+       drop-down menus or radio boxes. (55-112)
+
+43.  Takes you to single page interface with all
+        your Pitchits! available for view. (56-112)
+
+44.  When a writer begins there will be no PI
+        here. So in this space we need a "Create a
+        PI" button. (57-112)
+
+45.  Brings you directly to the "add work"
+        interface (59-112)
+
+46.  Remove PI button. Too much redundancy.  (60-112)
+
+47.  Shov - we know we want to add more
+       profile questions. You had suggested
+       making that part of the login process every
+       second or third time a writer logs in in
+       order to make the gathering of this
+       information less intrusive. (63-112)
+
+48.  We need to see a more complete
+       rendering before we can add comments. (65-112)
+
+49.  Wrong font -- pls see our original site. (66-112)
+
+50.  This icon and My Work title move up to
+        become a secondary navigation
+        underneath the "My Dashboard"
+        navigation. (68-112)
+
+51.  Clicking on photo takes writer back to the
+        back to writer dashboard. (69-112)
+
+52.  Remove these radio buttons to make
+       room for navigation hierarchy discussed in
+       comment 1 (70-112)
+
+53.  Make a link that says "Back to Dashboard"  (71-112)
+
+54.  Takes us to the landing page for writer
+       "Add Work" page. (72-112)
+
+55.  This is legacy functionality that we can
+        remove. No need to sort or change the
+        order of this list. (73-112)
+
+56.  Remove PI functionality from this page. (74-112)
+
+57.  Change "Public" to "Visibility" (75-112)
+
+58.  Remove this column. (76-112)
+
+59.  Category can display all categories
+       selected by writer up to the maximum
+       allowed, which is 3. (77-112)
+
+60.  "Latest Pitchits!" should say "My Pitchits!" (79-112)
+
+61.  Here is where the "Views" go (80-112)
+
+62.  Last data point is Cancel. Same pop-up
+       appears here if user wants to cancel a PI. If
+       they do cancel a PI it will still appear in
+       their list. (81-112)
+
+63.  By clicking on My Dashboard navigation
+       user is relocated to My Dashboard main
+       page (82-112)
+
+64.  REMOVE all three icons here so that the
+       secondary navigation can fit underneath
+       My Dashboard (see #1)  (83-112)
+
+65.  Create link "Return to My Dashboard" (84-112)
+
+66.  Navigation links here to match My
+       Dashboard  (85-112)
+
+67.  remove numbered column (86-112)
+
+68.  This section is "Pitchit!"  (87-112)
+
+69.  Need Start Date Here (88-112)
+
+70.  Need End Date here (89-112)
+
+71.  This section should be titled "Work" (90-112)
+
+72.  "Compose Message" (93-112)
+
+73.  Messages should be color coded following
+       envelope and bell icons on dashboard.
+       Should be able to sort on that basis too.
+      Messages from admin should have an
+     eggy icon (94-112)
+
+74.  This list should auto populate with
+       contacts as they become available, also
+       should have tech support as a contact and
+      also an admin contact. (95-112)
+
+75.  Since majority of writers will not ever hear
+       from an AEP we need to think how to
+       make messaging useful to other writers
+       too. (96-112)
+
+76.  Should say "Save" (100-112)
+
+77.  Remove all navigation (103-112)
+
+78.  Remove all links  (104-112)
+
+79. Remove all navigation this screen (106-112)
+
+80.  Remove all Links (107-112)
+
+81.   David, please share your comments on
+        subscription choices. (108-112)
+
+82.  Remove Register button. (109-112)
+
+83.  Inbox becomes "My Notifications" (111-112)
+
+84.  
+
+
+

@@ -1,0 +1,442 @@
+[10-Nov-2014 06:03:49 America/Denver] PHP Fatal error:  Unsupported operand types in /home8/websoluz/public_html/demo/inkubate/application/models/mhome.php on line 37
+[01-Dec-2014 02:16:59 America/Denver] PHP Fatal error:  Call to a member function register_email_exists() on a non-object in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 84
+[01-Dec-2014 02:17:53 America/Denver] PHP Fatal error:  Call to a member function register_email_exists() on a non-object in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 84
+[04-Dec-2014 09:32:03 America/Denver] PHP Fatal error:  Call to undefined method mwork::work_cat_select() in /home8/websoluz/public_html/demo/inkubate/application/views/edit_work.php on line 789
+[18-Dec-2014 05:55:34 America/Denver] PHP Fatal error:  Call to a member function post() on a non-object in /home8/websoluz/public_html/demo/inkubate/application/controllers/discovery.php on line 235
+[30-Jan-2015 08:06:59 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:07:00 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:08:02 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:13:06 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:13:07 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:13:32 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:13:33 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:13:59 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:14:00 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:14:01 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:14:01 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:14:02 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:14:03 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:14:03 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:14:03 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:14:03 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:14:43 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[30-Jan-2015 08:15:11 America/Denver] PHP Fatal error:  Call to undefined method mwork::allWorkByPitch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 250
+[10-Feb-2015 05:38:27 America/Denver] PHP Warning:  imagettftext(): Could not find/open font in /home8/websoluz/public_html/demo/inkubate/get_captcha.php on line 42
+[10-Feb-2015 05:43:38 America/Denver] PHP Warning:  imagettftext(): Could not find/open font in /home8/websoluz/public_html/demo/inkubate/get_captcha.php on line 42
+[10-Feb-2015 05:44:09 America/Denver] PHP Warning:  imagettftext(): Could not find/open font in /home8/websoluz/public_html/demo/inkubate/get_captcha.php on line 42
+[10-Feb-2015 05:44:28 America/Denver] PHP Warning:  imagettftext(): Could not find/open font in /home8/websoluz/public_html/demo/inkubate/get_captcha.php on line 42
+[10-Feb-2015 05:45:40 America/Denver] PHP Warning:  imagettftext(): Could not find/open font in /home8/websoluz/public_html/demo/inkubate/get_captcha.php on line 42
+[10-Feb-2015 05:46:15 America/Denver] PHP Warning:  imagettftext(): Could not find/open font in /home8/websoluz/public_html/demo/inkubate/get_captcha.php on line 42
+[10-Feb-2015 05:46:36 America/Denver] PHP Warning:  imagettftext(): Could not find/open font in /home8/websoluz/public_html/demo/inkubate/get_captcha.php on line 42
+[10-Feb-2015 05:46:45 America/Denver] PHP Warning:  imagettftext(): Could not find/open font in /home8/websoluz/public_html/demo/inkubate/get_captcha.php on line 42
+[10-Feb-2015 05:47:24 America/Denver] PHP Warning:  imagettftext(): Could not find/open font in /home8/websoluz/public_html/demo/inkubate/get_captcha.php on line 42
+[10-Feb-2015 05:47:34 America/Denver] PHP Warning:  imagettftext(): Could not find/open font in /home8/websoluz/public_html/demo/inkubate/get_captcha.php on line 42
+[10-Feb-2015 05:48:11 America/Denver] PHP Warning:  imagettftext(): Could not find/open font in /home8/websoluz/public_html/demo/inkubate/get_captcha.php on line 42
+[10-Feb-2015 05:48:13 America/Denver] PHP Warning:  imagettftext(): Could not find/open font in /home8/websoluz/public_html/demo/inkubate/get_captcha.php on line 42
+[27-Feb-2015 05:00:24 America/Denver] PHP Fatal error:  Using $this when not in object context in /home8/websoluz/public_html/demo/inkubate/index.php on line 1
+[27-Feb-2015 05:00:28 America/Denver] PHP Fatal error:  Using $this when not in object context in /home8/websoluz/public_html/demo/inkubate/index.php on line 1
+[27-Feb-2015 05:00:34 America/Denver] PHP Fatal error:  Using $this when not in object context in /home8/websoluz/public_html/demo/inkubate/index.php on line 1
+[27-Feb-2015 08:47:02 America/Denver] PHP Fatal error:  Call to undefined method mprofile::total_publisher_details_forpitch() in /home8/websoluz/public_html/demo/inkubate/application/views/author_dashboard.php on line 3658
+[27-Feb-2015 08:47:36 America/Denver] PHP Fatal error:  Call to undefined method mprofile::total_publisher_details_forpitch() in /home8/websoluz/public_html/demo/inkubate/application/views/author_dashboard.php on line 3658
+[27-Feb-2015 08:49:31 America/Denver] PHP Fatal error:  Call to undefined method mprofile::total_publisher_details_forpitch() in /home8/websoluz/public_html/demo/inkubate/application/views/author_dashboard.php on line 3658
+[16-Mar-2015 05:39:19 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 5484
+[16-Mar-2015 10:27:50 America/Denver] PHP Fatal error:  Call to undefined method memail::get_only_profile_view() in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 2962
+[16-Mar-2015 10:28:19 America/Denver] PHP Fatal error:  Call to undefined method memail::get_only_profile_view() in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 2962
+[16-Mar-2015 10:30:31 America/Denver] PHP Fatal error:  Call to undefined method memail::get_only_profile_view() in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 2962
+[16-Mar-2015 10:30:31 America/Denver] PHP Fatal error:  Call to undefined method memail::get_only_profile_view() in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 2962
+[16-Mar-2015 20:08:23 America/Denver] PHP Fatal error:  Call to undefined method memail::get_only_profile_view() in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 2962
+[16-Mar-2015 20:09:10 America/Denver] PHP Fatal error:  Call to undefined method memail::get_only_profile_view() in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 2962
+[16-Mar-2015 20:09:30 America/Denver] PHP Fatal error:  Call to undefined method memail::get_only_profile_view() in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 2962
+[16-Mar-2015 20:09:44 America/Denver] PHP Fatal error:  Call to undefined method memail::get_only_profile_view() in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 2962
+[16-Mar-2015 20:12:07 America/Denver] PHP Fatal error:  Call to undefined method memail::get_only_profile_view() in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 2962
+[16-Mar-2015 20:43:47 America/Denver] PHP Fatal error:  Call to undefined method memail::get_only_profile_view() in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 2962
+[16-Mar-2015 20:53:58 America/Denver] PHP Fatal error:  Call to undefined method memail::get_only_profile_view() in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 2962
+[17-Mar-2015 01:32:39 America/Denver] PHP Fatal error:  Call to undefined method memail::get_only_profile_view() in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 2962
+[17-Mar-2015 01:35:21 America/Denver] PHP Fatal error:  Call to undefined method memail::get_only_profile_view() in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 2962
+[31-Mar-2015 08:39:15 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 519
+[02-Apr-2015 04:06:35 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 372
+[02-Apr-2015 04:06:40 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 372
+[02-Apr-2015 04:06:40 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 372
+[02-Apr-2015 04:08:25 America/Denver] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 372
+[03-Apr-2015 02:01:47 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::getUserLatestPitchitDetails() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 752
+[03-Apr-2015 02:01:53 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::getUserLatestPitchitDetails() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 752
+[03-Apr-2015 02:02:11 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::getUserLatestPitchitDetails() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 752
+[03-Apr-2015 02:02:45 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::getUserLatestPitchitDetails() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 752
+[03-Apr-2015 02:04:34 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::getUserLatestPitchitDetails() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 752
+[03-Apr-2015 02:05:59 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::getUserLatestPitchitDetails() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 752
+[03-Apr-2015 02:06:38 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::getUserLatestPitchitDetails() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 752
+[03-Apr-2015 02:11:01 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::getUserLatestPitchitDetails() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 752
+[03-Apr-2015 02:12:41 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::getUserLatestPitchitDetails() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 752
+[03-Apr-2015 02:12:44 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::getUserLatestPitchitDetails() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 752
+[07-Apr-2015 06:40:08 America/Denver] PHP Fatal error:  Call to undefined method mbookshelf::get_bookshelf_user_first() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 306
+[08-Apr-2015 07:07:46 America/Denver] PHP Fatal error:  Call to undefined method mprofile::get_user_country() in /home8/websoluz/public_html/demo/inkubate/application/views/profile/index.php on line 421
+[11-Apr-2015 05:14:36 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home8/websoluz/public_html/demo/inkubate/application/views/trashmail.php on line 546
+[11-Apr-2015 05:14:42 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home8/websoluz/public_html/demo/inkubate/application/views/trashmail.php on line 546
+[11-Apr-2015 05:14:42 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home8/websoluz/public_html/demo/inkubate/application/views/trashmail.php on line 546
+[13-Apr-2015 07:18:27 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_portrait() in /home8/websoluz/public_html/demo/inkubate/application/views/profile/index.php on line 171
+[13-Apr-2015 11:40:54 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:40:54 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:41:19 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:41:20 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:41:20 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:42:43 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:43:38 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:43:38 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:44:25 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:44:57 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:44:57 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:45:30 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:45:42 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:46:09 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:47:41 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:50:03 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:51:32 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[13-Apr-2015 11:51:32 America/Denver] PHP Fatal error:  Call to undefined method memail::get_latest_cover() in /home8/websoluz/public_html/demo/inkubate/application/views/bookshelf/index.php on line 471
+[14-Apr-2015 00:31:28 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 4664
+[14-Apr-2015 00:31:36 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 4664
+[14-Apr-2015 00:31:53 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 4664
+[14-Apr-2015 00:32:03 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home8/websoluz/public_html/demo/inkubate/application/views/publisher_dashboard.php on line 4664
+[22-Apr-2015 10:24:59 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:25:10 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:25:27 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:26:42 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:29:11 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:29:33 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:29:45 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:29:55 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:30:01 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:30:04 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:30:09 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:30:28 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:30:34 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:30:38 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:36:04 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:36:15 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:36:20 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:36:50 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:37:59 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:37:59 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:39:40 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:43:46 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:44:14 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:46:01 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:46:21 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:46:21 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:46:26 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:48:17 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:48:46 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:53:24 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 10:55:06 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:05:23 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:08:34 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:08:41 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:10:53 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:10:56 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:11:00 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:12:27 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:12:30 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:13:18 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:13:23 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:13:43 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:14:25 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:14:28 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:14:28 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:15:10 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:16:21 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[22-Apr-2015 11:17:21 America/Denver] PHP Parse error:  syntax error, unexpected ''p.is_draft' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 2234
+[22-Apr-2015 11:17:24 America/Denver] PHP Fatal error:  Call to undefined method mpitchit::get_user_recently_add_titles_count() in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 942
+[08-May-2015 06:01:31 America/Denver] OAuthException: An active access token must be used to query information about the current user.
+[11-May-2015 11:36:49 America/Denver] PHP Fatal error:  Call to a member function social_register() on a non-object in /home8/websoluz/public_html/demo/inkubate/application/controllers/twtest.php on line 93
+[12-May-2015 06:54:55 America/Denver] PHP Fatal error:  Call to undefined method linkedin::setResponseFormat() in /home8/websoluz/public_html/demo/inkubate/application/controllers/linklogin.php on line 24
+[12-May-2015 07:01:52 America/Denver] PHP Fatal error:  Call to undefined method linkedin::setResponseFormat() in /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php on line 29
+[12-May-2015 07:25:39 America/Denver] PHP Fatal error:  Uncaught exception 'LinkedInException' with message 'LinkedIn->retrieveTokenAccess(): bad data passed, string type is required for $token, $secret and $verifier.' in /home8/websoluz/public_html/demo/inkubate/application/libraries/linkedin.php:1809
+Stack trace:
+#0 /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php(68): LinkedIn->retrieveTokenAccess(false, false, '84191')
+#1 [internal function]: Linkedin_signup->data()
+#2 /home8/websoluz/public_html/demo/inkubate/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home8/websoluz/public_html/demo/inkubate/index.php(202): require_once('/home8/websoluz...')
+#4 {main}
+  thrown in /home8/websoluz/public_html/demo/inkubate/application/libraries/linkedin.php on line 1809
+[12-May-2015 07:27:27 America/Denver] PHP Fatal error:  Uncaught exception 'LinkedInException' with message 'LinkedIn->retrieveTokenAccess(): bad data passed, string type is required for $token, $secret and $verifier.' in /home8/websoluz/public_html/demo/inkubate/application/libraries/linkedin.php:1809
+Stack trace:
+#0 /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php(68): LinkedIn->retrieveTokenAccess(false, false, '88582')
+#1 [internal function]: Linkedin_signup->data()
+#2 /home8/websoluz/public_html/demo/inkubate/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home8/websoluz/public_html/demo/inkubate/index.php(202): require_once('/home8/websoluz...')
+#4 {main}
+  thrown in /home8/websoluz/public_html/demo/inkubate/application/libraries/linkedin.php on line 1809
+[12-May-2015 07:28:46 America/Denver] PHP Fatal error:  Uncaught exception 'LinkedInException' with message 'LinkedIn->retrieveTokenAccess(): bad data passed, string type is required for $token, $secret and $verifier.' in /home8/websoluz/public_html/demo/inkubate/application/libraries/linkedin.php:1809
+Stack trace:
+#0 /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php(68): LinkedIn->retrieveTokenAccess(false, false, '54264')
+#1 [internal function]: Linkedin_signup->data()
+#2 /home8/websoluz/public_html/demo/inkubate/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home8/websoluz/public_html/demo/inkubate/index.php(202): require_once('/home8/websoluz...')
+#4 {main}
+  thrown in /home8/websoluz/public_html/demo/inkubate/application/libraries/linkedin.php on line 1809
+[12-May-2015 07:33:51 America/Denver] PHP Fatal error:  Call to a member function company() on a non-object in /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php on line 95
+[12-May-2015 08:06:32 America/Denver] PHP Fatal error:  Uncaught exception 'LinkedInException' with message 'LinkedIn->retrieveTokenAccess(): bad data passed, string type is required for $token, $secret and $verifier.' in /home8/websoluz/public_html/demo/inkubate/application/libraries/linkedin.php:1809
+Stack trace:
+#0 /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php(70): LinkedIn->retrieveTokenAccess(false, false, '55009')
+#1 [internal function]: Linkedin_signup->data()
+#2 /home8/websoluz/public_html/demo/inkubate/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home8/websoluz/public_html/demo/inkubate/index.php(202): require_once('/home8/websoluz...')
+#4 {main}
+  thrown in /home8/websoluz/public_html/demo/inkubate/application/libraries/linkedin.php on line 1809
+[12-May-2015 08:06:53 America/Denver] PHP Fatal error:  Call to a member function get_twit_user() on a non-object in /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php on line 107
+[12-May-2015 08:26:48 America/Denver] CSRF state token does not match one provided.
+[12-May-2015 08:30:24 America/Denver] CSRF state token does not match one provided.
+[12-May-2015 08:32:32 America/Denver] CSRF state token does not match one provided.
+[12-May-2015 08:36:24 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home8/websoluz/public_html/demo/inkubate/application/controllers/welcome.php on line 60
+[12-May-2015 08:36:30 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home8/websoluz/public_html/demo/inkubate/application/controllers/welcome.php on line 60
+[12-May-2015 08:36:34 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home8/websoluz/public_html/demo/inkubate/application/controllers/welcome.php on line 60
+[12-May-2015 08:36:55 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home8/websoluz/public_html/demo/inkubate/application/controllers/welcome.php on line 60
+[12-May-2015 08:37:12 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home8/websoluz/public_html/demo/inkubate/application/controllers/welcome.php on line 60
+[12-May-2015 08:37:29 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home8/websoluz/public_html/demo/inkubate/application/controllers/welcome.php on line 60
+[12-May-2015 08:39:20 America/Denver] CSRF state token does not match one provided.
+[12-May-2015 08:41:45 America/Denver] CSRF state token does not match one provided.
+[12-May-2015 08:41:55 America/Denver] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home8/websoluz/public_html/demo/inkubate/application/libraries/base_facebook.php on line 1340
+[12-May-2015 08:42:01 America/Denver] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home8/websoluz/public_html/demo/inkubate/application/libraries/base_facebook.php on line 1340
+[12-May-2015 08:53:26 America/Denver] PHP Parse error:  syntax error, unexpected 'redirect' (T_STRING) in /home8/websoluz/public_html/demo/inkubate/application/controllers/welcome.php on line 62
+[12-May-2015 08:53:27 America/Denver] PHP Parse error:  syntax error, unexpected 'redirect' (T_STRING) in /home8/websoluz/public_html/demo/inkubate/application/controllers/welcome.php on line 62
+[12-May-2015 08:53:35 America/Denver] PHP Parse error:  syntax error, unexpected 'redirect' (T_STRING) in /home8/websoluz/public_html/demo/inkubate/application/controllers/welcome.php on line 62
+[12-May-2015 08:53:38 America/Denver] PHP Parse error:  syntax error, unexpected 'redirect' (T_STRING) in /home8/websoluz/public_html/demo/inkubate/application/controllers/welcome.php on line 62
+[12-May-2015 08:53:47 America/Denver] PHP Parse error:  syntax error, unexpected 'redirect' (T_STRING) in /home8/websoluz/public_html/demo/inkubate/application/controllers/welcome.php on line 62
+[12-May-2015 08:57:49 America/Denver] CSRF state token does not match one provided.
+[12-May-2015 09:32:22 America/Denver] CSRF state token does not match one provided.
+[12-May-2015 09:33:01 America/Denver] CSRF state token does not match one provided.
+[13-May-2015 02:08:36 America/Denver] PHP Fatal error:  require(): Failed opening required 'application/third_party/src/apiClient.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home8/websoluz/public_html/demo/inkubate/application/controllers/google.php on line 13
+[13-May-2015 02:28:48 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='/home8/websoluz/public_html/demo/inkubate/application/third_party/src:.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home8/websoluz/public_html/demo/inkubate/application/third_party/src/Google_Client.php on line 39
+[13-May-2015 02:46:58 America/Denver] PHP Fatal error:  Call to a member function get() on a non-object in /home8/websoluz/public_html/demo/inkubate/application/controllers/google.php on line 39
+[13-May-2015 02:56:37 America/Denver] PHP Fatal error:  Call to a member function get() on a non-object in /home8/websoluz/public_html/demo/inkubate/application/controllers/google.php on line 39
+[13-May-2015 02:56:41 America/Denver] PHP Fatal error:  Call to a member function get() on a non-object in /home8/websoluz/public_html/demo/inkubate/application/controllers/google.php on line 39
+[13-May-2015 04:04:57 America/Denver] PHP Fatal error:  Call to a member function get() on a non-object in /home8/websoluz/public_html/demo/inkubate/application/controllers/google.php on line 39
+[13-May-2015 04:08:19 America/Denver] PHP Fatal error:  Call to a member function get() on a non-object in /home8/websoluz/public_html/demo/inkubate/application/controllers/google.php on line 39
+[13-May-2015 04:41:41 America/Denver] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home8/websoluz/public_html/demo/inkubate/application/third_party/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home8/websoluz/public_html/demo/inkubate/application/third_party/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, NULL)
+#1 /home8/websoluz/public_html/demo/inkubate/application/controllers/google.php(37): Google_Client->authenticate()
+#2 [internal function]: Google->googleLoginSubmit()
+#3 /home8/websoluz/public_html/demo/inkubate/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home8/websoluz/public_html/demo/inkubate/index.php(202): require_once('/home8/websoluz...')
+#5 {main}
+  thrown in /home8/websoluz/public_html/demo/inkubate/application/third_party/src/auth/Google_OAuth2.php on line 113
+[13-May-2015 04:41:58 America/Denver] PHP Fatal error:  Call to undefined method Google_PlusService::get() in /home8/websoluz/public_html/demo/inkubate/application/controllers/google.php on line 39
+[13-May-2015 04:42:48 America/Denver] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home8/websoluz/public_html/demo/inkubate/application/third_party/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home8/websoluz/public_html/demo/inkubate/application/third_party/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, NULL)
+#1 /home8/websoluz/public_html/demo/inkubate/application/controllers/google.php(37): Google_Client->authenticate()
+#2 [internal function]: Google->googleLoginSubmit()
+#3 /home8/websoluz/public_html/demo/inkubate/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home8/websoluz/public_html/demo/inkubate/index.php(202): require_once('/home8/websoluz...')
+#5 {main}
+  thrown in /home8/websoluz/public_html/demo/inkubate/application/third_party/src/auth/Google_OAuth2.php on line 113
+[13-May-2015 04:43:26 America/Denver] PHP Fatal error:  Uncaught exception 'Google_AuthException' with message 'Error fetching OAuth2 access token, message: 'invalid_grant'' in /home8/websoluz/public_html/demo/inkubate/application/third_party/src/auth/Google_OAuth2.php:113
+Stack trace:
+#0 /home8/websoluz/public_html/demo/inkubate/application/third_party/src/Google_Client.php(131): Google_OAuth2->authenticate(Array, NULL)
+#1 /home8/websoluz/public_html/demo/inkubate/application/controllers/google.php(37): Google_Client->authenticate()
+#2 [internal function]: Google->googleLoginSubmit()
+#3 /home8/websoluz/public_html/demo/inkubate/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home8/websoluz/public_html/demo/inkubate/index.php(202): require_once('/home8/websoluz...')
+#5 {main}
+  thrown in /home8/websoluz/public_html/demo/inkubate/application/third_party/src/auth/Google_OAuth2.php on line 113
+[13-May-2015 04:43:40 America/Denver] PHP Fatal error:  Call to undefined method Google_PlusService::get() in /home8/websoluz/public_html/demo/inkubate/application/controllers/google.php on line 39
+[13-May-2015 04:44:26 America/Denver] PHP Fatal error:  Call to undefined method Google_PlusService::get() in /home8/websoluz/public_html/demo/inkubate/application/controllers/google.php on line 39
+[13-May-2015 04:44:34 America/Denver] PHP Fatal error:  Call to undefined method Google_PlusService::get() in /home8/websoluz/public_html/demo/inkubate/application/controllers/google.php on line 39
+[21-May-2015 07:14:19 America/Denver] PHP Fatal error:  Call to undefined method madmin::allPitchitHour() in /home8/websoluz/public_html/demo/inkubate/application/controllers/pitchit.php on line 217
+[21-May-2015 07:16:55 America/Denver] PHP Fatal error:  Call to undefined method madmin::allPitchitHour() in /home8/websoluz/public_html/demo/inkubate/application/controllers/pitchit.php on line 217
+[21-May-2015 07:16:55 America/Denver] PHP Fatal error:  Call to undefined method madmin::allPitchitHour() in /home8/websoluz/public_html/demo/inkubate/application/controllers/pitchit.php on line 217
+[21-May-2015 07:16:58 America/Denver] PHP Fatal error:  Call to undefined method madmin::allPitchitHour() in /home8/websoluz/public_html/demo/inkubate/application/controllers/pitchit.php on line 217
+[21-May-2015 07:17:04 America/Denver] PHP Fatal error:  Call to undefined method madmin::allPitchitHour() in /home8/websoluz/public_html/demo/inkubate/application/controllers/pitchit.php on line 217
+[22-May-2015 08:57:28 America/Denver] PHP Fatal error:  Unsupported operand types in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 2940
+[22-May-2015 08:57:39 America/Denver] PHP Fatal error:  Unsupported operand types in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 2940
+[22-May-2015 09:05:06 America/Denver] PHP Fatal error:  Unsupported operand types in /home8/websoluz/public_html/demo/inkubate/application/controllers/home.php on line 2940
+[25-May-2015 11:47:40 America/Denver] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home8/websoluz/public_html/demo/inkubate/application/controllers/bookshelves.php on line 79
+[27-May-2015 02:21:00 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 6344
+[27-May-2015 02:21:05 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 6344
+[27-May-2015 02:21:05 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 6344
+[27-May-2015 02:21:23 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 6344
+[27-May-2015 02:21:27 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 6344
+[27-May-2015 02:21:27 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 6344
+[27-May-2015 02:21:35 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 6344
+[27-May-2015 02:22:38 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 6344
+[27-May-2015 02:22:38 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 6344
+[27-May-2015 02:22:38 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 6344
+[27-May-2015 02:22:41 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 6344
+[27-May-2015 02:22:43 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 6344
+[29-May-2015 19:49:00 America/Denver] PHP Fatal error:  Uncaught exception 'LinkedInException' with message 'LinkedIn->retrieveTokenAccess(): bad data passed, string type is required for $token, $secret and $verifier.' in /home8/websoluz/public_html/demo/inkubate/application/libraries/linkedin.php:1809
+Stack trace:
+#0 /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php(85): LinkedIn->retrieveTokenAccess(false, false, false)
+#1 [internal function]: Linkedin_signup->data()
+#2 /home8/websoluz/public_html/demo/inkubate/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home8/websoluz/public_html/demo/inkubate/index.php(202): require_once('/home8/websoluz...')
+#4 {main}
+  thrown in /home8/websoluz/public_html/demo/inkubate/application/libraries/linkedin.php on line 1809
+[03-Jun-2015 07:57:02 America/Denver] Bad Signed JSON signature!
+[03-Jun-2015 07:57:02 America/Denver] Bad Signed JSON signature!
+[03-Jun-2015 07:57:48 America/Denver] Bad Signed JSON signature!
+[03-Jun-2015 07:57:48 America/Denver] Bad Signed JSON signature!
+[03-Jun-2015 08:25:14 America/Denver] OAuthException: An active access token must be used to query information about the current user.
+[04-Jun-2015 09:53:05 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 6363
+[08-Jun-2015 08:09:43 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:10:03 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:10:35 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:12:24 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:12:28 America/Denver] PHP Warning:  file_get_contents(https://www.linkedin.com/uas/oauth2/accessToken?grant_type=authorization_code&amp;client_id=75wyu5jl7pbozx&amp;client_secret=6ggqRz6HXJa4CwEi&amp;code=AQSlygzf8HkfNLApMzTes3jU1EKAVYp3F_vnFzK4LWvaRooKazLgRlC-wpvodQo1GT2vRZA7U9_hIyx7L3apEhn0qP9xzKpe3uSWAI-Hcrf4xzXNZ40&amp;redirect_uri=http%3A%2F%2Fbillbahadur.com%2Fdemo%2Finkubate%2Ftest5.php): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 84
+[08-Jun-2015 08:12:28 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 90
+[08-Jun-2015 08:12:28 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:12:28 America/Denver] PHP Warning:  file_get_contents(https://api.linkedin.com/v1/people/~:(firstName,lastName)): failed to open stream: HTTP request failed! HTTP/1.0 401 Unauthorized
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 118
+[08-Jun-2015 08:12:28 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 40
+[08-Jun-2015 08:12:32 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:12:44 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:18:18 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:18:25 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:18:25 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:18:26 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:18:37 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:20:22 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:20:34 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:21:04 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:23:22 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:23:33 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:23:53 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:28:21 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:29:42 America/Denver] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home8/websoluz/public_html/demo/inkubate/test6.php on line 3
+[08-Jun-2015 08:29:53 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:30:15 America/Denver] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home8/websoluz/public_html/demo/inkubate/test6.php on line 3
+[08-Jun-2015 08:30:20 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:31:11 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 111
+[08-Jun-2015 08:34:11 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:34:11 America/Denver] PHP Warning:  file_get_contents(https://api.linkedin.com/v1/people/~:(id,firstName,lastName,headline,picture-url,email-address,skills,public-profile-url)): failed to open stream: HTTP request failed! HTTP/1.0 401 Unauthorized
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 123
+[08-Jun-2015 08:34:11 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 43
+[08-Jun-2015 08:34:25 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:34:25 America/Denver] PHP Warning:  file_get_contents(https://api.linkedin.com/v1/people/~:(id,firstName,lastName,headline,picture-url,email-address,skills,public-profile-url)): failed to open stream: HTTP request failed! HTTP/1.0 401 Unauthorized
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 123
+[08-Jun-2015 08:34:25 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 43
+[08-Jun-2015 08:34:38 America/Denver] PHP Warning:  file_get_contents(https://www.linkedin.com/uas/oauth2/accessToken?grant_type=authorization_code&amp;client_id=75wyu5jl7pbozx&amp;client_secret=6ggqRz6HXJa4CwEi&amp;code=AQSqApuH1Luk9zSC_GWa8BFqXaV5BQsczadhyW8sgCCV5SkRjpB4qvFg-Qxq8Pj7Z3uZ192rKeeeNpBxNNYYFush50H_bNTXupRmw-nelQoMookpWN4&amp;redirect_uri=http%3A%2F%2Fbillbahadur.com%2Fdemo%2Finkubate%2Ftest5.php): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 89
+[08-Jun-2015 08:34:38 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 95
+[08-Jun-2015 08:34:38 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:34:38 America/Denver] PHP Warning:  file_get_contents(https://api.linkedin.com/v1/people/~:(id,firstName,lastName,headline,picture-url,email-address,skills,public-profile-url)): failed to open stream: HTTP request failed! HTTP/1.0 401 Unauthorized
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 123
+[08-Jun-2015 08:34:38 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 43
+[08-Jun-2015 08:35:51 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:35:51 America/Denver] PHP Warning:  file_get_contents(https://api.linkedin.com/v1/people/~:(id,firstName,lastName,headline,picture-url,email-address,skills,public-profile-url)): failed to open stream: HTTP request failed! HTTP/1.0 401 Unauthorized
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 123
+[08-Jun-2015 08:35:51 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 43
+[08-Jun-2015 08:35:57 America/Denver] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home8/websoluz/public_html/demo/inkubate/test6.php on line 3
+[08-Jun-2015 08:36:02 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:36:03 America/Denver] PHP Warning:  file_get_contents(https://api.linkedin.com/v1/people/~:(id,firstName,lastName,headline,picture-url,email-address,skills,public-profile-url)): failed to open stream: HTTP request failed! HTTP/1.0 401 Unauthorized
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 123
+[08-Jun-2015 08:36:03 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 43
+[08-Jun-2015 08:36:21 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:36:22 America/Denver] PHP Warning:  file_get_contents(https://api.linkedin.com/v1/people/~:(id,firstName,lastName,headline,picture-url,email-address,skills,public-profile-url)): failed to open stream: HTTP request failed! HTTP/1.0 401 Unauthorized
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 123
+[08-Jun-2015 08:36:22 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 43
+[08-Jun-2015 08:36:29 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:36:30 America/Denver] PHP Warning:  file_get_contents(https://api.linkedin.com/v1/people/~:(id,firstName,lastName,headline,picture-url,email-address,skills,public-profile-url)): failed to open stream: HTTP request failed! HTTP/1.0 401 Unauthorized
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 123
+[08-Jun-2015 08:36:30 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 43
+[08-Jun-2015 08:36:30 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:36:30 America/Denver] PHP Warning:  file_get_contents(https://api.linkedin.com/v1/people/~:(id,firstName,lastName,headline,picture-url,email-address,skills,public-profile-url)): failed to open stream: HTTP request failed! HTTP/1.0 401 Unauthorized
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 123
+[08-Jun-2015 08:36:30 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 43
+[08-Jun-2015 08:37:01 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:37:02 America/Denver] PHP Warning:  file_get_contents(https://api.linkedin.com/v1/people/~:(id,firstName,lastName,headline,picture-url,email-address,skills,public-profile-url)): failed to open stream: HTTP request failed! HTTP/1.0 401 Unauthorized
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 123
+[08-Jun-2015 08:37:02 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 43
+[08-Jun-2015 08:38:04 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:38:04 America/Denver] PHP Warning:  file_get_contents(https://api.linkedin.com/v1/people/~:(id,firstName,lastName,headline,picture-url,email-address,skills,public-profile-url)): failed to open stream: HTTP request failed! HTTP/1.0 401 Unauthorized
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 123
+[08-Jun-2015 08:38:04 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 43
+[08-Jun-2015 08:38:14 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:38:15 America/Denver] PHP Warning:  file_get_contents(https://api.linkedin.com/v1/people/~:(id,firstName,lastName,headline,picture-url,email-address,skills,public-profile-url)): failed to open stream: HTTP request failed! HTTP/1.0 401 Unauthorized
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 123
+[08-Jun-2015 08:38:15 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 43
+[08-Jun-2015 08:40:37 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:40:37 America/Denver] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home8/websoluz/public_html/demo/inkubate/test5.php on line 41
+[08-Jun-2015 08:42:22 America/Denver] PHP Notice:  Undefined index: state in /home8/websoluz/public_html/demo/inkubate/test5.php on line 20
+[08-Jun-2015 08:44:02 America/Denver] PHP Warning:  file_get_contents(https://www.linkedin.com/uas/oauth2/accessToken?grant_type=authorization_code&amp;client_id=75wyu5jl7pbozx&amp;client_secret=6ggqRz6HXJa4CwEi&amp;code=AQScJZCGOECnO-oM6oCbyRNVBywgRn_le4mSg3Nf37PSiy4vrACK55TeG4X_4j3IysibvzLmpIpkQgCJoH0mZR-oLs3-HmzQBt8uBn3R9501HrtXoc0&amp;redirect_uri=http%3A%2F%2Fbillbahadur.com%2Fdemo%2Finkubate%2Ftest5.php): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 89
+[08-Jun-2015 08:44:02 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 95
+[08-Jun-2015 08:44:02 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:44:02 America/Denver] PHP Warning:  file_get_contents(https://api.linkedin.com/v1/people/~:(id,firstName,lastName,headline,picture-url,email-address,skills,public-profile-url)): failed to open stream: HTTP request failed! HTTP/1.0 401 Unauthorized
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 123
+[08-Jun-2015 08:44:02 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 43
+[08-Jun-2015 08:44:47 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:44:48 America/Denver] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home8/websoluz/public_html/demo/inkubate/test5.php on line 41
+[08-Jun-2015 08:45:59 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:45:59 America/Denver] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home8/websoluz/public_html/demo/inkubate/test5.php on line 41
+[08-Jun-2015 08:46:54 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 116
+[08-Jun-2015 08:54:38 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 120
+[08-Jun-2015 08:55:17 America/Denver] PHP Notice:  Undefined index: state in /home8/websoluz/public_html/demo/inkubate/test5.php on line 20
+[08-Jun-2015 09:00:11 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 120
+[08-Jun-2015 09:00:17 America/Denver] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home8/websoluz/public_html/demo/inkubate/test6.php on line 3
+[08-Jun-2015 09:00:21 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 120
+[08-Jun-2015 09:00:43 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 120
+[08-Jun-2015 09:00:48 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 120
+[08-Jun-2015 09:00:52 America/Denver] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home8/websoluz/public_html/demo/inkubate/test6.php on line 3
+[08-Jun-2015 09:00:56 America/Denver] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home8/websoluz/public_html/demo/inkubate/test6.php on line 3
+[08-Jun-2015 09:01:00 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 120
+[08-Jun-2015 09:03:16 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 120
+[08-Jun-2015 09:03:21 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 120
+[08-Jun-2015 09:03:21 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 120
+[08-Jun-2015 09:04:52 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 120
+[08-Jun-2015 09:04:55 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 120
+[08-Jun-2015 09:05:48 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 120
+[08-Jun-2015 09:14:21 America/Denver] PHP Warning:  file_get_contents(https://www.linkedin.com/uas/oauth2/accessToken?grant_type=authorization_code&amp;client_id=75wyu5jl7pbozx&amp;client_secret=6ggqRz6HXJa4CwEi&amp;code=AQTtfDLMJv7mWb4DPveoTN9iMk_GaUc0Bwmv_YD-Fdz7iJceejGkQqPg6JXYY0zATaKts9PddmUXY5RgsGyOYLsvFpR-_jeJWik3YE1KdBPGxJqJq5I&amp;redirect_uri=http%3A%2F%2Fbillbahadur.com%2Fdemo%2Finkubate%2Ftest5.php): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 93
+[08-Jun-2015 09:14:21 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 99
+[08-Jun-2015 09:14:21 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 120
+[08-Jun-2015 09:14:21 America/Denver] PHP Warning:  file_get_contents(https://api.linkedin.com/v1/people/~:(id,firstName,lastName,headline,picture-url,email-address,skills,public-profile-url)): failed to open stream: HTTP request failed! HTTP/1.0 401 Unauthorized
+ in /home8/websoluz/public_html/demo/inkubate/test5.php on line 127
+[08-Jun-2015 09:14:21 America/Denver] PHP Notice:  Trying to get property of non-object in /home8/websoluz/public_html/demo/inkubate/test5.php on line 45
+[08-Jun-2015 09:14:27 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/test5.php on line 120
+[08-Jun-2015 09:35:51 America/Denver] PHP Notice:  Undefined index: state in /home8/websoluz/public_html/demo/inkubate/test5.php on line 20
+[08-Jun-2015 09:41:45 America/Denver] PHP Fatal error:  Call to undefined function fetch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php on line 58
+[08-Jun-2015 09:42:06 America/Denver] PHP Fatal error:  Call to undefined function fetch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php on line 58
+[08-Jun-2015 09:42:28 America/Denver] PHP Fatal error:  Call to undefined function fetch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php on line 58
+[08-Jun-2015 09:46:20 America/Denver] PHP Fatal error:  Call to undefined function fetch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php on line 58
+[08-Jun-2015 09:48:56 America/Denver] PHP Fatal error:  Call to undefined function getAuthorizationCode() in /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php on line 53
+[08-Jun-2015 09:57:23 America/Denver] PHP Fatal error:  Call to undefined function getAuthorizationCode() in /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php on line 54
+[08-Jun-2015 10:08:41 America/Denver] PHP Fatal error:  Call to undefined function getAuthorizationCode() in /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php on line 54
+[08-Jun-2015 10:08:51 America/Denver] PHP Fatal error:  Call to undefined function getAuthorizationCode() in /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php on line 54
+[08-Jun-2015 10:14:02 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/linkedin_sign.php on line 120
+[08-Jun-2015 10:17:07 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/linkedin_sign.php on line 120
+[08-Jun-2015 10:27:00 America/Denver] PHP Notice:  Undefined variable: params in /home8/websoluz/public_html/demo/inkubate/linkedin_sign.php on line 120
+[08-Jun-2015 10:27:40 America/Denver] PHP Fatal error:  Call to undefined function getAuthorizationCode() in /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php on line 55
+[08-Jun-2015 10:28:02 America/Denver] PHP Fatal error:  Call to undefined function getAuthorizationCode() in /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php on line 55
+[08-Jun-2015 10:30:02 America/Denver] PHP Fatal error:  Call to undefined function getAuthorizationCode() in /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php on line 55
+[08-Jun-2015 10:48:50 America/Denver] PHP Fatal error:  Call to undefined function fetch() in /home8/websoluz/public_html/demo/inkubate/application/controllers/linkedin_signup.php on line 60
+[08-Jun-2015 11:17:08 America/Denver] CSRF state token does not match one provided.
+[08-Jun-2015 11:51:49 America/Denver] CSRF state token does not match one provided.
+[08-Jun-2015 11:51:53 America/Denver] CSRF state token does not match one provided.
+[08-Jun-2015 12:05:58 America/Denver] PHP Fatal error:  Call to undefined method mhome::get_twit_user_byemail() in /home8/websoluz/public_html/demo/inkubate/application/controllers/fblogin.php on line 37
+[08-Jun-2015 12:06:18 America/Denver] CSRF state token does not match one provided.
+[08-Jun-2015 12:49:55 America/Denver] CSRF state token does not match one provided.
+[08-Jun-2015 12:52:36 America/Denver] CSRF state token does not match one provided.
+[08-Jun-2015 12:55:16 America/Denver] CSRF state token does not match one provided.
+[09-Jun-2015 06:54:49 America/Denver] CSRF state token does not match one provided.
+[09-Jun-2015 06:54:50 America/Denver] CSRF state token does not match one provided.
+[09-Jun-2015 06:54:59 America/Denver] CSRF state token does not match one provided.
+[09-Jun-2015 06:55:26 America/Denver] CSRF state token does not match one provided.
+[09-Jun-2015 06:58:15 America/Denver] PHP Parse error:  syntax error, unexpected ''pitchits_' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home8/websoluz/public_html/demo/inkubate/application/models/memail.php on line 4002
+[11-Jun-2015 07:08:15 America/Denver] PHP Notice:  Undefined index: state in /home8/websoluz/public_html/demo/inkubate/test5.php on line 20
+[12-Jun-2015 02:02:22 America/Denver] CSRF state token does not match one provided.
+[12-Jun-2015 14:18:43 America/Denver] CSRF state token does not match one provided.
+[13-Jun-2015 09:07:03 America/Denver] CSRF state token does not match one provided.
+[13-Jun-2015 09:42:42 America/Denver] CSRF state token does not match one provided.
+[13-Jun-2015 10:09:13 America/Denver] CSRF state token does not match one provided.
+[13-Jun-2015 10:09:32 America/Denver] CSRF state token does not match one provided.
+[13-Jun-2015 10:11:29 America/Denver] CSRF state token does not match one provided.
+[13-Jun-2015 10:11:32 America/Denver] CSRF state token does not match one provided.
+[13-Jun-2015 10:12:01 America/Denver] CSRF state token does not match one provided.
+[13-Jun-2015 10:12:10 America/Denver] CSRF state token does not match one provided.
+[13-Jun-2015 10:12:13 America/Denver] CSRF state token does not match one provided.
+[13-Jun-2015 10:15:18 America/Denver] CSRF state token does not match one provided.
+[13-Jun-2015 10:17:04 America/Denver] CSRF state token does not match one provided.
+[13-Jun-2015 10:18:35 America/Denver] CSRF state token does not match one provided.
